@@ -84,7 +84,7 @@ code {
   padding: 15px;
   margin: 10px;
   border-radius: 5px;
-  color:black
+  color:black;
 }
 
 @media only screen and (max-width: 815px) {
@@ -95,7 +95,7 @@ code {
   }
 
   #navbar {
-    background-color: black;
+    background-color: white;
     position: absolute;
     top: 0;
     padding: 0;
